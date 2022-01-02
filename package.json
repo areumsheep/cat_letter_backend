@@ -1,0 +1,23 @@
+{
+  "name": "cat_letter_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/areumsheep/cat_letter_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/areumsheep/cat_letter_backend/issues"
+  },
+  "homepage": "https://github.com/areumsheep/cat_letter_backend#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "joi": "^17.5.0"
+  }
+}
